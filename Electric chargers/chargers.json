@@ -1,0 +1,14 @@
+{
+    "type": "Feature",
+    "properties": {
+        "name": "Bar Ilan",
+        "available": 0
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [
+            34.847046,
+            32.072452
+        ]
+    }
+}
